@@ -5,12 +5,6 @@
 #define DEFAULT 0
 #define LOWER 1
 #define RAISE 2
-#define TOGGLE 3
-#define L4 4
-#define MAC 5
-#define MAC_LOWER 6
-#define MAC_RAISE 7
-#define MAC_L4
 
 &lt {
         flavor = "balanced";
