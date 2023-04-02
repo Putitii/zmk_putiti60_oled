@@ -1,0 +1,6 @@
+if SHIELD_PUTITI60
+
+config ZMK_KEYBOARD_NAME
+    default "Putiti60"
+
+endif
