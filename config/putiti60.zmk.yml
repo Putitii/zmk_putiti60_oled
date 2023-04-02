@@ -8,4 +8,4 @@ features:
   - keys
   - display
 exposes:
-  - i2c_oledS
+  - i2c_oled
