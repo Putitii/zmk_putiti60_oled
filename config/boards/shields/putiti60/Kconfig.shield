@@ -1,2 +1,2 @@
 config SHIELD_PUTITI60
-    def_bool ${shields_list_contains, putiti60}
+    def_bool ${shields_list_contains,putiti60}
