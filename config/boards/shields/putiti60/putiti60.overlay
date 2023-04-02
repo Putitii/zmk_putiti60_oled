@@ -67,7 +67,7 @@
 		display-offset = <0>;
 		multiplex-ratio = <31>;
 		com-sequential;
-        segment-remap = true;
+        segment-remap;
 		prechargep = <0x22>;
 	};
 };
