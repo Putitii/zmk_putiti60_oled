@@ -1,8 +1,8 @@
 file_format: "1"
-id: reviung41
-name: REVIUNG41
+id: putiti60
+name: PUTITI60
 type: shield
-url: https://github.com/Putitii/zmk_putiti36_oled
+url: https://github.com/Putitii/zmk_putiti60_oled
 requires: [pro_micro]
 features:
   - keys
